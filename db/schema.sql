@@ -6,3 +6,5 @@ CREATE DATABASE ecommerce_db;
 
 -- SET ACTIVE DATABASE
 USE ecommerce_db;
+
+-- SOURCE ./db/schema.sql
