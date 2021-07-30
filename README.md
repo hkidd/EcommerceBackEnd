@@ -1,5 +1,5 @@
 # EcommerceBackEnd_HW13
-Build the back end for an e-commerce site by modifying starter code. Configure a working Express.js API to use Sequelize to interact with a MySQL database.
+Build the back end for an e-commerce site by modifying starter code. Configure a working Express.js API to use Sequelize to interact with a MySQL database.  The user is able to retrieve lists of products, categories, and the product tags, as well as create, update, and delete objects within the database.
 
 ## User Story
 
